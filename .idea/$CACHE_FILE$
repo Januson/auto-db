@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Projects/RH/CP/candlepin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/RH/candlepin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/RH/other/candlepin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/RH/other/candlepin-jobs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/experiments/picocli" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
